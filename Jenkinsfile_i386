@@ -1,6 +1,6 @@
 node {
     stage('Build') {
-        echo 'Building....'
+        echo 'Building master on i386....'
     }
     stage('Test') {
         echo 'Testing....'
