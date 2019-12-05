@@ -1,6 +1,6 @@
 node {
     stage('Build') {
-        echo 'Building....'
+        echo 'Building branch2 on wandboard....'
     }
     stage('Test') {
         echo 'Testing....'
