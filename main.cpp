@@ -4,6 +4,6 @@
 
 int main (void)
 {
-    printf("Hello Branch master");
+    printf("Hello Branch branch2");
     return 0;
 }
