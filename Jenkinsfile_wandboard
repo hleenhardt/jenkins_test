@@ -1,0 +1,11 @@
+node {
+    stage('Build') {
+        echo 'Building branch1 on wandboard....'
+    }
+    stage('Test') {
+        echo 'Testing....'
+    }
+    stage('Deploy') {
+        echo 'Deploying....'
+    }
+}
